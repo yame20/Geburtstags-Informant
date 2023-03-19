@@ -1,0 +1,11 @@
+C:\Users\Zachio\Desktop\Programmieren Lernen\Programmieren-Starten\C# Zusammenfassungen\Projekt\Geburtstags-Informant\bin\Debug\Geburtstags-Informant.exe.config
+C:\Users\Zachio\Desktop\Programmieren Lernen\Programmieren-Starten\C# Zusammenfassungen\Projekt\Geburtstags-Informant\bin\Debug\Geburtstags-Informant.exe
+C:\Users\Zachio\Desktop\Programmieren Lernen\Programmieren-Starten\C# Zusammenfassungen\Projekt\Geburtstags-Informant\bin\Debug\Geburtstags-Informant.pdb
+C:\Users\Zachio\Desktop\Programmieren Lernen\Programmieren-Starten\C# Zusammenfassungen\Projekt\Geburtstags-Informant\obj\Debug\Geburtstags-Informant.csproj.AssemblyReference.cache
+C:\Users\Zachio\Desktop\Programmieren Lernen\Programmieren-Starten\C# Zusammenfassungen\Projekt\Geburtstags-Informant\obj\Debug\Geburtstags-Informant.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zachio\Desktop\Programmieren Lernen\Programmieren-Starten\C# Zusammenfassungen\Projekt\Geburtstags-Informant\obj\Debug\Geburtstags-Informant.csproj.CoreCompileInputs.cache
+C:\Users\Zachio\Desktop\Programmieren Lernen\Programmieren-Starten\C# Zusammenfassungen\Projekt\Geburtstags-Informant\obj\Debug\Geburtstags-Informant.exe
+C:\Users\Zachio\Desktop\Programmieren Lernen\Programmieren-Starten\C# Zusammenfassungen\Projekt\Geburtstags-Informant\obj\Debug\Geburtstags-Informant.pdb
+C:\Users\Zachio\Desktop\Programmieren Lernen\Programmieren-Starten\C# Zusammenfassungen\Projekt\Geburtstags-Informant\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zachio\Desktop\Programmieren Lernen\Programmieren-Starten\C# Zusammenfassungen\Projekt\Geburtstags-Informant\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zachio\Desktop\Programmieren Lernen\Programmieren-Starten\C# Zusammenfassungen\Projekt\Geburtstags-Informant\obj\Debug\Geburtstags-Informant.csproj.CopyComplete
